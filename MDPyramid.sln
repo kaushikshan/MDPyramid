@@ -5,12 +5,12 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDPyramid", "MDPyramid.csproj", "{BF91CA48-6231-469C-9469-F63AC7ECB191}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDPyramid.Test", "..\MDPyramid.Test\MDPyramid.Test.csproj", "{D28646DF-004E-4291-B262-F9FA77623350}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B6B81A1D-BE41-4F11-BA33-41C6D23B0CAA}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.txt = ReadMe.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDPyramid.Test", "MDPyramid.Test\MDPyramid.Test.csproj", "{D28646DF-004E-4291-B262-F9FA77623350}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
